@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dannamyt
+- 👋 Hi, I’m Dannamyt
 - 👀 I’m interested in building Java Projects 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on building projects with fellow beginners 
