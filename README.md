@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dannamyt
-- 👀 I’m interested in building Java Projects 
-- 🌱 I’m currently learning Java 
+- 👀 I’m a Front-End Developer
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on building projects with fellow beginners 
-- 📫 How to reach me ...Email:volamide4@gmail.com 
+- 📫 Email:volamide4@gmail.com 
 
 <!---
 Dannamyt/Dannamyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
