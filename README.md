@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dannamyt
-- 👀 I’m a Front-End Developer
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on building projects with fellow beginners 
+- 👀 I’m a Front-End Developer,and a part-time graphics designer
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m open to collaborating on building real-word projects 
 - 📫 Email:abayomda@gmail.com 
 
 <!---
